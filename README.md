@@ -1,5 +1,5 @@
 # continuousSpeechRecognition
-[![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/livnoni_logo.PNG)
+![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/livnoni_logo.PNG)
 
 Android application for offline real time converting sound to text using google RecognitionListener class
 ### why to use this app?
