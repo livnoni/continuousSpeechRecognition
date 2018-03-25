@@ -113,10 +113,10 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     @Override
     protected void onStop() {
         super.onStop();
-        if (speech != null) {
-            speech.destroy();
-            Log.i(LOG_TAG, "destroy");
-        }
+//        if (speech != null) {
+//            speech.destroy();
+//            Log.i(LOG_TAG, "destroy");
+//        }
     }
 
     @Override
