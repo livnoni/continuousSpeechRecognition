@@ -14,7 +14,7 @@ Android application for offline real time converting sound to text using google 
 ### How it woks?
 the main activity implements RecognitionListener class and override the method
 
-[![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/screenshoot.jpeg)
+![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/screenshoot.jpeg)
 
 
 ### Why to use it?
