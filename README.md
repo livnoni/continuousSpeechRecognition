@@ -8,7 +8,7 @@ Android application for offline real time converting sound to text using google 
  - works offline
  - simple
  
- [![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/noGoogle.png)
+ ![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/noGoogle.png)
 
 
 ### How it woks?
