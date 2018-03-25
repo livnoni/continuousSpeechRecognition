@@ -23,7 +23,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements RecognitionListener {
 
     private static final int REQUEST_RECORD_PERMISSION = 100;
-    private int maxLinesInput = 3;
+    private int maxLinesInput = 10;
     private TextView returnedText;
     private ToggleButton toggleButton;
     private ProgressBar progressBar;
@@ -169,15 +169,21 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         String text = "";
         for (String result : matches)
             text += result + "\n";
-
+        Log.i(LOG_TAG, "onResults="+text);
         returnedText.setText(text);
         speech.startListening(recognizerIntent);
 
     }
 
     @Override
-    public void onPartialResults(Bundle bundle) {
+    public void onPartialResults(Bundle results) {
         Log.i(LOG_TAG, "onPartialResults");
+        ArrayList<String> matches = results
+                .getStringArrayList(SpeechRecognizer.RESULTS_RECOGNITION);
+        String text = "";
+        for (String result : matches)
+            text += result + "\n";
+        Log.i(LOG_TAG, "onPartialResults="+text);
 
     }
 
