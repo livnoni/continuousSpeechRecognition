@@ -28,7 +28,6 @@ git clone https://github.com/livnoni/continuousSpeechRecognition.git
 open in Android Studio
 run the project
 
-
 Feel free to use the logic for your intrest.
 
 Have fun!!
