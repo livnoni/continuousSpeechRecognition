@@ -1,5 +1,8 @@
 [![Generic badge](https://img.shields.io/badge/YUDA-PASS-<COLOR>.svg)](https://shields.io/)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/livnoni/continuousSpeechRecognition)
+[![Known Vulnerabilities](https://snyk.io/test/github/livnoni/continuousSpeechRecognition/badge.svg)](https://snyk.io/test/github/livnoni/continuousSpeechRecognition)
+
 
 
 # continuousSpeechRecognition
