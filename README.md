@@ -1,4 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/YUDA-PASS-<COLOR>.svg)](https://shields.io/)
+[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
 
 # continuousSpeechRecognition
