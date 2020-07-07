@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/YUDA-PASS-<COLOR>.svg)](https://shields.io/)
+
+
 # continuousSpeechRecognition
 ![N|Solid](https://github.com/livnoni/continuousSpeechRecognition/blob/master/pics/livnoni_logo.PNG)
 
